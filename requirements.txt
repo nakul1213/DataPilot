@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+pandas
+jupyter
+nbformat
+python-multipart
+aiofiles
+openai 
